@@ -89,6 +89,6 @@ position: relative;
         float: left;
         height: 100%;
         line-height: 60px;
-        margin-left: 0.5rem;
+        /*margin-left: 0.5rem;*/
     }
 </style>
